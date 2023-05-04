@@ -1,0 +1,5 @@
+---
+private_key_path: /etc/ssl/private/self_signed.key
+cert_path: /etc/ssl/certs/self_signed.crt
+csr_path: /etc/ssl/certs/self_signed.csr
+key_size: 2048
